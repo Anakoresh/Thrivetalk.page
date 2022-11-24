@@ -1,3 +1,3 @@
 # Это страница Thriveltalk
 
-[Thriveltalk page](https://anakoresh.github.io/portfolio_Denis_Novik/)
+[Thriveltalk page](https://anakoresh.github.io/Thrivetalk.page/)
